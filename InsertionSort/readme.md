@@ -12,11 +12,11 @@ A similar approach is used by insertion sort.
 
 ## Time Complexity
 
-** Best Case Complexity: ** - O(n) When the array is already sorted, the outer loop runs for n number of times whereas the inner loop does not run at all. So, there are only n number of comparisons. Thus, complexity is linear.
+**Best Case Complexity:** - O(n) When the array is already sorted, the outer loop runs for n number of times whereas the inner loop does not run at all. So, there are only n number of comparisons. Thus, complexity is linear.
 
-** Average Case Complexity: ** - O(n^2) It occurs when the elements of an array are in jumbled order (neither ascending nor descending).
+**Average Case Complexity:** - O(n^2) It occurs when the elements of an array are in jumbled order (neither ascending nor descending).
 
-** Worst Case Complexity: ** - O(n^2) Suppose, an array is in ascending order, and you want to sort it in descending order. In this case, worst case complexity occurs.
+**Worst Case Complexity:** - O(n^2) Suppose, an array is in ascending order, and you want to sort it in descending order. In this case, worst case complexity occurs.
 
 Each element has to be compared with each of the other elements so, for every nth element, (n-1) number of comparisons are made.
 
