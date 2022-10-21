@@ -26,3 +26,5 @@ Bubble sort is used if
 
 1. complexity does not matter
 2. short and simple code is preferred
+
+# Thank you!
